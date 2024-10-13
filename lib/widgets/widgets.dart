@@ -1,0 +1,10 @@
+export 'drawer_home.dart';
+export 'buscador_home.dart';
+export 'container1_home.dart';
+export 'pageView_home.dart';
+export 'package:flutter_application_1/widgets/coloredbox_home.dart';
+export 'productos_home.dart';
+export '../widgets/crearCuenta_registro.dart';
+export 'package:flutter_application_1/widgets/card_container.dart';
+export 'package:flutter_application_1/widgets/auth_background_c1.dart';
+export 'package:flutter_application_1/widgets/auth_background.dart';
